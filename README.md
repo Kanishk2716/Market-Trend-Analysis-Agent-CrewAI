@@ -1,1 +1,1 @@
-# Tech-Product-Review-Agent-CrewAI
+# Market-Trend-Analysis-Agent-CrewAI
